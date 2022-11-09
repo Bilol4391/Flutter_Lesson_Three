@@ -1,8 +1,8 @@
 // This widget is the root of your application.
 import 'package:flutter/material.dart';
 
-class LessonCode extends StatelessWidget {
-  const LessonCode({super.key});
+class ExOne extends StatelessWidget {
+  const ExOne({super.key});
 
   @override
   Widget build(BuildContext context) {
